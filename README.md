@@ -65,5 +65,5 @@
    ![Seleccionar editar cada vez que se cambie la IP](image-4.png)
 
 4. **Jugar:**
-   - Darle doble click al servidor cargado y a jugar putos.
+   - Darle doble click al servidor cargado y a jugar.
 
